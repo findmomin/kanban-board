@@ -12,7 +12,6 @@
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "noEmit": true,
 
     // Manually added
     "noEmitOnError": true,
